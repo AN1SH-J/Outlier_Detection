@@ -43,5 +43,4 @@ This script focuses on identifying the outliers from a given dataset of stock pr
 
 - Mathematical functions and libraries : https://www.geeksforgeeks.org/mastering-python-libraries-for-effective-data-processing/
 - OS functions : https://docs.python.org/3/library/os.html
-- 
 
